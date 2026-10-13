@@ -1,0 +1,12 @@
+{
+	"Name": "Free Upgrades",
+	"ID": "free upgrades",
+	"Author": "User",
+	"Description": "Makes all upgrades cost 0 cookies and always affordable without spending cookies.",
+	"ModVersion": 1,
+	"GameVersion": 2.052,
+	"Date": "08/10/2026",
+	"Dependencies": [],
+	"Disabled": 0,
+	"AllowSteamAchievs": 1
+}
